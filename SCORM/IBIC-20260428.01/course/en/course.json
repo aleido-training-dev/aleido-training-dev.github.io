@@ -1,0 +1,402 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "title": "ICF i IBIC för utförare",
+  "displayTitle": "ICF i IBIC för utförare",
+  "body": "<p>Den här webbutbildningen ger dig som utförare grundläggande kunskap om ICF som ett gemensamt tankesätt och språk i arbetet med IBIC.</p><p>Du kommer få lära dig hur ICF används för att förstå och beskriva individens resurser, behov, mål och resultat. Du kommer också att få bekanta dig med olika ICF-begrepp som livsområden och relaterade faktorer.&nbsp;</p><p>Till sist får du kunskap om hur du använder ICF:s bedömningsskala för att bedöma individens funktionstillstånd.</p><p>Klicka på avsnitt 1, ICF som gemensamt tankesätt och språk för att börja.<br><br>&nbsp;</p><div class=\"navigationlink_btn\"><p><a class=\"customlink\" href=\"#/id/69b7b10f109e98eab64eb8bc\">Så navigerar du</a></p></div>",
+  "description": "",
+  "_menu": {
+    "_boxMenuCustom": {
+      "_menuInstructionText": "Click or tap on the blocks below to find out more"
+    }
+  },
+  "_latestTrackingId": 53,
+  "_language": "en",
+  "_multilanguage": [],
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": true,
+    "_isMenuDisabled": true
+  },
+  "_globals": {
+    "_accessibility": {
+      "_accessibilityToggleTextOn": "_",
+      "_accessibilityToggleTextOff": "_",
+      "skipNavigationText": "Hoppa till huvudinnehåll",
+      "_accessibilityInstructions": {
+        "touch": "_",
+        "notouch": "_",
+        "ipad": "_"
+      },
+      "_ariaLabels": {
+        "navigation": "Navigationsfält ",
+        "skipNavigation": "Hoppa till huvudinnehåll",
+        "home": "Hem",
+        "menuLoaded": "Huvudmeny laddad",
+        "menu": "Huvudmeny",
+        "menuItem": "Kapitel",
+        "menuViewButton": "Starta kapitel",
+        "page": "Kapitel",
+        "pageLoaded": "Kapitel laddat",
+        "previous": "Tillbaka",
+        "navigationBack": "Gå tillbaka(-knapp)",
+        "navigationDrawer": "Sökfunktion och resurser i utbildning",
+        "closeResources": "Stäng",
+        "drawerBack": "Tillbaka",
+        "drawer": "",
+        "closeDrawer": "Stäng",
+        "closePopup": "Stäng",
+        "next": "Nästa",
+        "done": "Färdigt",
+        "complete": "Moment genomfört",
+        "incomplete": "Moment ej genomfört",
+        "correct": "Rätt",
+        "incorrect": "Fel",
+        "locked": "Låst",
+        "accessibilityToggleButton": "",
+        "feedbackPopUp": "Popup-fönster öppnat.",
+        "visited": "Besökt",
+        "menuBack": "Hem",
+        "menuIndicatorHeading": "Kapitelrubrik",
+        "exit": "Avsluta",
+        "logoHomeButtonAltText": "",
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "close": "Close",
+        "required": "Required",
+        "optional": "Optional"
+      },
+      "altFeedbackTitle": "Feedback"
+    },
+    "_extensions": {
+      "_drawer": {
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        },
+        "_navOrder": 100
+      },
+      "_openTextSummary": {
+        "printResponses": "Utskriftsreslutat",
+        "incompleteHeading": "Det finns fler frågor att svara på.",
+        "incompleteBody": "Det finns fler reflektionsfrågor att svara på längre fram i utbildningen. Vill du skriva ut ditt svar ändå?",
+        "yes": "Ja",
+        "no": "Nej"
+      },
+      "_bookmarking": {
+        "resumeButtonText": "Resume",
+        "resumeButtonAriaLabel": "Navigate to your furthest point of progress."
+      },
+      "_tutor": {
+        "hideFeedback": "Dölj återkoppling."
+      },
+      "_resources": {
+        "ariaRegion": "",
+        "resources": "Resurser."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Moment i kapitlet. ",
+        "pageLevelProgressIndicatorBar": "Öppna kapitelmeny, knapp. Du har genomfört {{percentageComplete}}%.",
+        "pageLevelProgressMenuBar": "Du har genomfört {{percentageComplete}}%.",
+        "optionalContent": "Valfritt genomförande",
+        "_navOrder": "0",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Page progress"
+        },
+        "_showLabel": true,
+        "navLabel": "Page progress",
+        "_drawerPosition": "auto"
+      },
+      "_navigation": {
+        "_skipButton": {
+          "_navOrder": -100
+        },
+        "_backButton": {
+          "_navOrder": 0
+        },
+        "_backNavTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        },
+        "_spacers": [
+          {
+            "_navOrder": 0
+          }
+        ]
+      },
+      "_search": {}
+    },
+    "_components": {
+      "_accordion": {
+        "ariaRegion": "Nytt moment. "
+      },
+      "_graphic": {
+        "ariaRegion": " ",
+        "scrollAriaLabel": " "
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Nytt moment. ",
+        "item": "Item {{{itemNumber}}} of {{{totalItems}}}",
+        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_matching": {
+        "ariaRegion": "Nytt moment. ",
+        "ariaCorrectAnswer": "Det rätta svaret för {{{itemText}}} är {{{correctAnswer}}}.",
+        "ariaUserAnswer": "På fråga {{{itemText}}} valde du {{{userAnswer}}}.",
+        "correctAnswerPrefix": "The correct answer is",
+        "correctAnswersPrefix": "The correct answers are"
+      },
+      "_mcq": {
+        "ariaRegion": "Nytt moment. ",
+        "ariaCorrectAnswer": "Rätt svar är {{{correctAnswer}}}.",
+        "ariaCorrectAnswers": "De rätta svaren är {{{correctAnswer}}}.",
+        "ariaUserAnswer": "Ditt svar var {{{userAnswer}}}.",
+        "ariaUserAnswers": "Dina svar var {{{userAnswer}}}."
+      },
+      "_text": {
+        "ariaRegion": " "
+      },
+      "_narrative": {
+        "ariaRegion": "Nytt moment. ",
+        "previous": "Föregående.",
+        "next": "Nästa.",
+        "titleDialog": "Item {{itemNumber}} of {{totalItems}}",
+        "titleStrapline": "Find out more"
+      },
+      "_flipcard": {
+        "ariaRegion": "Nytt moment. "
+      }
+    },
+    "_menu": {
+      "_boxMenuCustom": {
+        "ariaRegion": "Meny",
+        "durationLabel": "Tidsåtgång:",
+        "menuItem": "Kapitelknapp",
+        "menuEnd": "Du har kommit till slutet av menyn. "
+      }
+    }
+  },
+  "_tooltips": {
+    "_isEnabled": true
+  },
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Svara",
+      "ariaLabel": "Svara"
+    },
+    "_reset": {
+      "buttonText": "Försök igen!",
+      "ariaLabel": "Försök igen!"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Visa rätt svar",
+      "ariaLabel": "Visa rätt svar"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Visa mitt svar",
+      "ariaLabel": "Visa mitt svar"
+    },
+    "_showFeedback": {
+      "buttonText": "Visa återkoppling",
+      "ariaLabel": "Visa återkoppling"
+    },
+    "remainingAttemptsText": "försök kvar",
+    "remainingAttemptText": "försök kvar",
+    "disabledAriaLabel": " Denna knapp är inaktiverad för tillfället."
+  },
+  "_classes": "menu-item-img",
+  "_lockType": null,
+  "metadata": {
+    "parentCourseIds": [
+      "5b3c75ce9c030e7649276b4f",
+      "5dcbe72ca668a00fd42d3e44",
+      "5df9d84afebd6a0f43ef8ff7",
+      "5e15e6d31edff43aa307290b",
+      "5e8330dd21f02f13f0bf1ead",
+      "5e99839820069712005fdd7f",
+      "5f06f1dd366baa0bfa4caa2b",
+      "5f07fd3ba022d9536e81faed",
+      "5f5f863b92f8a83c21fdf19e",
+      "5f7d4ab4d2c5817f3646e30e",
+      "5f8e8a68789b3b1c6605d5d0",
+      "5fabcf5fc648ea6b3825bdb0",
+      "5fd1c00ac4905a70bae0d7e6",
+      "60d2efc33ed7ef6ec74d2e69",
+      "611d07ce5c91c14b6e6949c6",
+      "611e6ce31456ac6ddea5fe92",
+      "612358441b7d6f2e587ba64c",
+      "617baba824e3ed75fe992908",
+      "61b7092fcb9b563871bcba0e",
+      "61b70a95cb9b563871bcbbd7",
+      "6362842a7a29bd14b67de685",
+      "636284fc4cea8012c47fc888",
+      "673f93b5a1f8e355d4bd0c53",
+      "680f3dbef2036f3954c274dc",
+      "6992cec8bebecda65c520e3f"
+    ]
+  },
+  "_tenantId": "57695b07954f55db715675fb",
+  "_spoor": {
+    "_messages": null
+  },
+  "_search": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "_matchOn": {
+      "_contentWordBeginsPhraseWord": false,
+      "_contentWordContainsPhraseWord": false,
+      "_contentWordEqualsPhraseWord": true,
+      "_phraseWordBeginsContentWord": true
+    },
+    "_previewWords": 10,
+    "_previewCharacters": 30,
+    "_showFoundWords": true,
+    "_showHighlights": true,
+    "_ignoreWords": "a,an,and,are,as,at,be,by,for,from,has,he,in,is,it,its,of,on,that,the,to,was,were,will,wish",
+    "_minimumWordLength": 2,
+    "_frequencyImportance": 5,
+    "title": "Sök",
+    "description": "Skriv in sökord",
+    "placeholder": "",
+    "noResultsMessage": "Inget resultat",
+    "awaitingResultsMessage": "Söker.."
+  },
+  "_openTextSummary": {
+    "_isEnabled": true,
+    "_allowComponentPrint": true,
+    "_isDisplayBackgroundLogo": true,
+    "_font": "Helvetica",
+    "_filename": "Dina reflektioner"
+  },
+  "_learningObjectives": {
+    "_isEnabled": false,
+    "_objectives": [
+      {
+        "_code": "LO-1",
+        "title": "Patientmapp 1",
+        "description": "<p>&nbsp;</p><p>&nbsp;</p>",
+        "_classes": ""
+      },
+      {
+        "_code": "LO-2",
+        "title": "Patientmapp 2",
+        "description": "",
+        "_classes": ""
+      },
+      {
+        "_code": "LO-3",
+        "title": "Patientmapp 3",
+        "description": "",
+        "_classes": ""
+      }
+    ],
+    "_popup": {
+      "_isEnabled": true,
+      "_duration": 6,
+      "templateText": "{{title}} uppdaterad."
+    }
+  },
+  "_pageFooterNavigation": {
+    "_isEnabled": true,
+    "_displayIcons": true,
+    "nextButtonText": "",
+    "prevButtonText": "",
+    "homeButtonText": "",
+    "upButtonText": "",
+    "_displayOptions": "scrollToBottom",
+    "_hideHomeButton": false,
+    "_hideUpButton": true,
+    "_hidePrevButton": false,
+    "_hideNextButton": false
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "_location": "previous",
+    "_showPrompt": true,
+    "_autoRestore": true,
+    "title": "Bokmärke",
+    "body": "Vill du fortsätta där du senast slutade?",
+    "_buttons": {
+      "yes": "Ja",
+      "no": "Nej"
+    }
+  },
+  "_tutor": {
+    "_type": "notify",
+    "_classes": "",
+    "_hasNotifyBottomButton": false,
+    "_button": {
+      "text": "{{_globals._extensions._tutor.hideFeedback}}",
+      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+    }
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Länkar och dokument",
+    "description": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_enableFilters": true,
+    "_filterButtons": {
+      "all": "Alla",
+      "document": "Dokument",
+      "media": "Media",
+      "link": "Länkar",
+      "custom1": "Custom type 1",
+      "custom2": "Custom type 2",
+      "custom3": "Custom type 3",
+      "custom4": "Custom type 4",
+      "custom5": "Custom type 5",
+      "custom6": "Custom type 6",
+      "custom7": "Custom type 7",
+      "custom8": "Custom type 8",
+      "custom9": "Custom type 9",
+      "custom10": "Custom type 10"
+    },
+    "_filterAria": {
+      "allAria": "Visa alla",
+      "documentAria": "Visa alla dokument",
+      "mediaAria": "Visa all media",
+      "linkAria": "Visa alla länkar",
+      "custom1Aria": "View custom type 1 links",
+      "custom2Aria": "View custom type 2 links",
+      "custom3Aria": "View custom type 3 links",
+      "custom4Aria": "View custom type 4 links",
+      "custom5Aria": "View custom type 5 links",
+      "custom6Aria": "View custom type 6 links",
+      "custom7Aria": "View custom type 7 links",
+      "custom8Aria": "View custom type 8 links",
+      "custom9Aria": "View custom type 9 links",
+      "custom10Aria": "View custom type 10 links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "IBIC vägledning",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2021-2-7203.pdf",
+        "_isGlobal": true
+      }
+    ]
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "title": "",
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true,
+    "_showAtCourseLevel": false,
+    "_useCourseProgressInNavigationButton": false
+  }
+}
